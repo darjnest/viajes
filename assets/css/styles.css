@@ -1,0 +1,37 @@
+/* Estilos personalizados */
+
+/* Estilos personalizados */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url('../img/carousel1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+html {
+    height: 100%;
+}
+
+.navbar-transparent {
+    background-color: transparent !important;
+    border: none;
+}
+
+.cover-container {
+    width: 100%;
+    height: 100%;
+}
+
+h1, p {
+    color: #000000;
+}
+
+.btn-primary {
+    background-color: #ff5733;
+    border-color: #ff5733;
+}
+
+
